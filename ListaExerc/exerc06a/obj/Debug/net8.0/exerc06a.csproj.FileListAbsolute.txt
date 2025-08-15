@@ -1,0 +1,14 @@
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\bin\Debug\net8.0\exerc06a.exe
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\bin\Debug\net8.0\exerc06a.deps.json
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\bin\Debug\net8.0\exerc06a.runtimeconfig.json
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\bin\Debug\net8.0\exerc06a.dll
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\bin\Debug\net8.0\exerc06a.pdb
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.AssemblyInfoInputs.cache
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.AssemblyInfo.cs
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.csproj.CoreCompileInputs.cache
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.dll
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\refint\exerc06a.dll
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.pdb
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\exerc06a.genruntimeconfig.cache
+E:\Faculdade\4° Semestre\Desenvolvimento de Software Visual\ListaExerc\exerc06a\obj\Debug\net8.0\ref\exerc06a.dll

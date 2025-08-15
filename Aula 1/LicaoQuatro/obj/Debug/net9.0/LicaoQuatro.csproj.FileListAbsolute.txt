@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\bin\Debug\net9.0\LicaoQuatro.exe
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\bin\Debug\net9.0\LicaoQuatro.deps.json
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\bin\Debug\net9.0\LicaoQuatro.runtimeconfig.json
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\bin\Debug\net9.0\LicaoQuatro.dll
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\bin\Debug\net9.0\LicaoQuatro.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.AssemblyInfo.cs
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.dll
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\refint\LicaoQuatro.dll
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\LicaoQuatro.genruntimeconfig.cache
+C:\Users\leo\Desktop\Aula 1\LicaoQuatro\obj\Debug\net9.0\ref\LicaoQuatro.dll

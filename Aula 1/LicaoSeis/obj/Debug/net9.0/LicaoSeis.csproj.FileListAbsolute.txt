@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\bin\Debug\net9.0\LicaoSeis.exe
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\bin\Debug\net9.0\LicaoSeis.deps.json
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\bin\Debug\net9.0\LicaoSeis.runtimeconfig.json
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\bin\Debug\net9.0\LicaoSeis.dll
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\bin\Debug\net9.0\LicaoSeis.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.AssemblyInfo.cs
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.dll
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\refint\LicaoSeis.dll
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\LicaoSeis.genruntimeconfig.cache
+C:\Users\leo\Desktop\Aula 1\LicaoSeis\obj\Debug\net9.0\ref\LicaoSeis.dll

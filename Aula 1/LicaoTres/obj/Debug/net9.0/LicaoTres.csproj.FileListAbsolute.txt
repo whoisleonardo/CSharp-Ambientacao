@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\Aula 1\LicaoTres\bin\Debug\net9.0\LicaoTres.exe
+C:\Users\leo\Desktop\Aula 1\LicaoTres\bin\Debug\net9.0\LicaoTres.deps.json
+C:\Users\leo\Desktop\Aula 1\LicaoTres\bin\Debug\net9.0\LicaoTres.runtimeconfig.json
+C:\Users\leo\Desktop\Aula 1\LicaoTres\bin\Debug\net9.0\LicaoTres.dll
+C:\Users\leo\Desktop\Aula 1\LicaoTres\bin\Debug\net9.0\LicaoTres.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.AssemblyInfo.cs
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.dll
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\refint\LicaoTres.dll
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\LicaoTres.genruntimeconfig.cache
+C:\Users\leo\Desktop\Aula 1\LicaoTres\obj\Debug\net9.0\ref\LicaoTres.dll

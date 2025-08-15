@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\Aula 1\LicaoUm\bin\Debug\net9.0\LicaoUm.exe
+C:\Users\leo\Desktop\Aula 1\LicaoUm\bin\Debug\net9.0\LicaoUm.deps.json
+C:\Users\leo\Desktop\Aula 1\LicaoUm\bin\Debug\net9.0\LicaoUm.runtimeconfig.json
+C:\Users\leo\Desktop\Aula 1\LicaoUm\bin\Debug\net9.0\LicaoUm.dll
+C:\Users\leo\Desktop\Aula 1\LicaoUm\bin\Debug\net9.0\LicaoUm.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.AssemblyInfo.cs
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.dll
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\refint\LicaoUm.dll
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.pdb
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\LicaoUm.genruntimeconfig.cache
+C:\Users\leo\Desktop\Aula 1\LicaoUm\obj\Debug\net9.0\ref\LicaoUm.dll
